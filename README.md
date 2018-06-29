@@ -12,9 +12,9 @@ Installation instructions can be found here : http://scholtyssek.org/blog/2015/0
 
 # Features
 
-OpenCV with C++
-OpenMP for multithreading
-Smart Pointers used .
+- OpenCV with C++
+- OpenMP for multithreading
+- Smart Pointers used .
 
 
 # Running the Code
