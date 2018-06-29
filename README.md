@@ -2,6 +2,14 @@
 
 Convert an image to its grayscale equivalent
 
+# Prequisites
+
+OpenCV with C++ libraries must be installed .
+Installation instructions can be found here : https://www.learnopencv.com/install-opencv3-on-ubuntu/
+
+C++14 required for running smart pointers .
+Installation instructions can be found here : http://scholtyssek.org/blog/2015/06/11/install-gcc-with-c14-support-on-ubuntumint/
+
 # Features
 
 OpenCV with C++
